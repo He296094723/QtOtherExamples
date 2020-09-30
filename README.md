@@ -38,30 +38,5 @@ QtSingleApplication: Qt单实例进程
 
 QtAutoStart: Qt设置开机启动
 
-![](https://github.com/zhengtianzuo/QtOtherExamples/blob/master/QtAutoStart/show.png?raw=true)
-
-
-
-
-
-#### 联系方式:
-***
-|作者|郑天佐|
-|---|---
-|QQ|278969898
-|主页|http://www.camelstudio.cn/
-|邮箱|camelsoft@163.com
-|博客|http://blog.csdn.net/zhengtianzuo06/
-|github|https://github.com/zhengtianzuo
-|QQ群|199672080  ![](https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/qqgroup.jpg?raw=true)
-
-
-
-
-
-***
-#### **捐赠**
-<img src="https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/weixin.jpg?raw=true" width="30%" height="30%" />           <img src="https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/zhifubao.jpg?raw=true" width="30%" height="30%" />
-
 ###### 觉得分享的内容还不错, 就请作者喝杯咖啡吧~~
 ***
