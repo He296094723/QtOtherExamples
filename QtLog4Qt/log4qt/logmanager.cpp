@@ -441,7 +441,16 @@ namespace Log4Qt
             default:
                 level = Level::TRACE_INT;
         }
-        instance()->qtLogger()->log(level, message);
+	QString messageAppend;
+        messageAppend.append("[");
+        messageAppend.append(context.file);
+        messageAppend.append(" ");
+        messageAppend.append(QString::number(context.line));
+        messageAppend.append(" (");
+        messageAppend.append(context.function);
+        messageAppend.append(")] ");
+        messageAppend.append(message);
+        instance()->qtLogger()->log(level, messageAppend);
 
         // Qt fatal behaviour copied from global.cpp qt_message_output()
         // begin {
