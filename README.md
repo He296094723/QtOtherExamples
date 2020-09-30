@@ -38,5 +38,4 @@ QtSingleApplication: Qt单实例进程
 
 QtAutoStart: Qt设置开机启动
 
-###### 觉得分享的内容还不错, 就请作者喝杯咖啡吧~~
 ***
